@@ -1,6 +1,6 @@
 # SonarQube
 
-<div align="center">
+<div align="center" height: 50vh>
 
 ![Logo](https://www.svgrepo.com/show/354365/sonarqube.svg)
 
@@ -17,7 +17,7 @@ Cobertura para dezenas das linguagens, estruturas e plataformas IaC mais popular
 
 <div align="center">
 
-[linguagens, estruturas e plataformas IaC](./images/aplicativos.png)
+![linguagens, estruturas e plataformas IaC](./images/aplicativos.png)
 
 </div>
 
