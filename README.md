@@ -6,9 +6,8 @@
 
 </div>
 
-    "Não há outra ferramenta no mercado que seja tão confiável e confiável quanto o SonarQube para Análise Estática. Eles são o padrão da indústria para análise de qualidade de software e devem fazer parte de qualquer empresa que exija auditorias sobre qualidade e vulnerabilidade de software."
-
-    Daniel Anjos , avaliação da TrustRadius
+> "Não há outra ferramenta no mercado que seja tão confiável e confiável quanto o SonarQube para Análise Estática. Eles são o padrão da indústria para análise de qualidade de software e devem fazer parte de qualquer empresa que exija auditorias sobre qualidade e vulnerabilidade de software."
+Daniel Anjos, avaliação da TrustRadius
 
 Site oficial: https://www.sonarsource.com/products/sonarqube/
 
