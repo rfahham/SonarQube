@@ -1,6 +1,6 @@
 # SonarQube
 
-<div align="center" height=200px>
+<div align="center", height=200px>
 
 ![Logo](https://www.svgrepo.com/show/354365/sonarqube.svg)
 
