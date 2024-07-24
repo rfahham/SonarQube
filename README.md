@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](https://www.svgrepo.com/show/354365/sonarqube.svg)
+![Logo](./images/sonar.png)
 
 </div>
 
